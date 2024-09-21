@@ -1,12 +1,12 @@
 h1 {
   color: rgb(17, 4, 4);
-  font-family: "Times New Roman", Times, serif;
+  font-family: fantasy;
   background-size: cover;
   background-color: rgb(240, 93, 25);
   text-align: center;
   text-decoration: solid;
   background-size: auto;
-  font: size 344px;
+  font-size: 344px;
 }
 p {
   text-align: center;
