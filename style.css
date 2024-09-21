@@ -1,0 +1,11 @@
+p {
+  text-align: center;
+  backface-visibility: visible;
+  -webkit-backface-visibility: visible;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif, "Arial Narrow", Arial, sans-serif;
+  font-size: medium;
+}
+.image {
+  text-align: center;
+  font-weight: 800;
+}
