@@ -1,3 +1,13 @@
+h1 {
+  color: rgb(17, 4, 4);
+  font-family: "Times New Roman", Times, serif;
+  background-size: cover;
+  background-color: rgb(240, 93, 25);
+  text-align: center;
+  text-decoration: solid;
+  background-size: auto;
+  font: size 344px;
+}
 p {
   text-align: center;
   backface-visibility: visible;
@@ -11,4 +21,13 @@ p {
 }
 .image2 {
   font-size: xx-large;
+}
+h2 {
+  font-size: xx-large;
+  text-align: center;
+}
+.main {
+  background-color: rgb(230, 187, 46);
+  color: rgb(0, 0, 0);
+  font-family: "cursive";
 }
