@@ -18,9 +18,12 @@ p {
 .image {
   text-align: center;
   font-weight: 800;
+  display: inline-block;
+  margin: 30px;
 }
 .image2 {
   font-size: xx-large;
+  display: inline-block;
 }
 h2 {
   font-size: xx-large;
@@ -31,7 +34,16 @@ h2 {
   color: rgb(0, 0, 0);
   font-family: "cursive";
 }
-.kl {
-  font-size: xx-large;
+
+.div1 {
   text-align: center;
+}
+#di {
+  display: inline-block;
+  /* font-size: xx-large; */
+  /* text-align: center; */
+}
+#io {
+  display: inline-block;
+  text-align: right;
 }
