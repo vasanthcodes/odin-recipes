@@ -49,22 +49,22 @@ h2 {
   justify-content: space-around;
   height: 500px;
   padding: 40px;
+  flex-direction: row;
   /* font-size: xx-large; */
   /* text-align: center; */
   align-items: center;
   /* align-items: center; */
-  gap: 70px;
+  gap: 7px;
 }
 #io {
-  display: inline-block;
   text-align: center;
-  flex: 1;
+  flex-shrink: 0;
   width: 440px;
   height: auto;
 }
 .img {
-  flex: 0 1 auto;
   margin: 1px;
   width: auto;
   height: 300px;
+  flex-shrink: 0;
 }
