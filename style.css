@@ -59,8 +59,10 @@ h2 {
 #io {
   text-align: center;
   flex-shrink: 0;
-  width: 440px;
+  width: auto;
   height: auto;
+  font-size: larger;
+  font-weight: bolder;
 }
 .img {
   margin: 1px;
